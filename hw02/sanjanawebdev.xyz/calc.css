@@ -1,0 +1,39 @@
+@charset "UTF-8"
+
+
+    .class{
+        margin-left: 40px; 
+        margin-right: 40px; 
+        text-align: center;
+    }
+	.box {
+    	width: 300px;  
+        height: 70px; 
+        border: 2px solid #3597AE; 
+        margin-bottom: 5px; 
+        font-size: 50px;
+     } 
+     h2 { 
+     	color: #3597AE; 
+     } 
+     button { 
+     	margin-top: 4px; 
+        width: 50px; 
+        height: 50px;
+        font-size: 26px; 
+        background-color: #6DB1C1; 
+        color: black; 
+     } 
+     #seven{ 
+     	background-color: #41C8C1; 
+     } 
+     #eight, #five, #four{ 
+     	background-color: #6BCFCA; 
+     } 
+     #nine, #six, #three, #two, #one{ 
+     	background-color:  #95D8D5; 
+     } 
+     #pluseq, #times, #minus, #divide, #dec, #zero, #clear{ 
+     	background-color:  #04A29A; 
+     } 
+
